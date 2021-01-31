@@ -1,0 +1,16 @@
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.exe
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csprojAssemblyReference.cache
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfoInputs.cache
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.AssemblyInfo.cs
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.deps.json
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.json
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.runtimeconfig.dev.json
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.dll
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\Producer.pdb
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CoreCompileInputs.cache
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.csproj.CopyComplete
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.dll
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.pdb
+D:\Trabalho estudo\RabbitMQ - como mexer\Projects\ProducerConsumerRabbitMQ\Producer\obj\Debug\netcoreapp3.1\Producer.genruntimeconfig.cache
